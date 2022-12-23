@@ -1,0 +1,8 @@
+text.usetex : True
+font.family : cm
+axes.labelsize : xx-large
+xtick.labelsize : x-large
+ytick.labelsize : x-large
+axes.titlesize : xx-large
+legend.fontsize : x-large
+savefig.facecolor : white
